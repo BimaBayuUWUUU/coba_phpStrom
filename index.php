@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Hai, Duniaa ini Bima Imoets</h1>
-<h3>Kita Beklajar PHP</h3>
+<h3>Kita Belajar PHP</h3>
 </body>
 </html>
